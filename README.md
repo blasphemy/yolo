@@ -1,3 +1,8 @@
+yolo?!
+======
+
+This is a fork of go.cobe. I forked a few reasons. Primarily I want to get rid of the cgo dependencies, such as snowball and sqlite. sqlite will probably be a lot harder to rip out than snowball though.
+
 go.cobe?!
 =========
 
