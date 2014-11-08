@@ -1,4 +1,4 @@
-package cobe
+package yolo
 
 import (
 	"github.com/cactus/go-statsd-client/statsd"

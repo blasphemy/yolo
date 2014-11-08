@@ -1,4 +1,4 @@
-package cobe
+package yolo
 
 import "testing"
 import "bitbucket.org/tebeka/snowball"
