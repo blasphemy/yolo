@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/GeertJohan/go.linenoise"
-	"github.com/pteichman/go.cobe"
+	"github.com/blasphemy/yolo"
 )
 
 func tildeExpand(filename string) (string, error) {
