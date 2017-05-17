@@ -16,8 +16,8 @@ import (
 )
 
 import (
-	"bitbucket.org/tebeka/snowball"
 	_ "github.com/mattn/go-sqlite3"
+	"github.com/tebeka/snowball"
 )
 
 // This is a straight port of the Python cobe brain.
